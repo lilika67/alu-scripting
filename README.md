@@ -1,0 +1,1 @@
+In this project we learned how to read API documentation to find the endpoints you're looking for, how to use an API with pagination, how tp parse JSON results from an API, how to make a recursive API call, How sort a dictionary by value. That's what we have learnde so far in this project.
